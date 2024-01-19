@@ -12,4 +12,4 @@ This is an android application example of UI components using Jetpack compose, A
 
 ## Video
 
-https://github.com/dev-tecocraft/AppTheme/assets/120561602/43372aa2-aeec-4cb6-82be-9ed35d4359d0
+https://github.com/dev-tecocraft/AppTheme/assets/120561602/1772391e-ef9c-4a7c-8307-29fc0393c456
