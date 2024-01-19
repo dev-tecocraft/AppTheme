@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppTheme</string>
+    <string name="choose_app_theme">Choose App Theme</string>
+    <string name="switches">Switches</string>
+    <string name="buttons">Buttons</string>
+    <string name="button">Button</string>
+    <string name="filled_tonal_button">Filled Tonal Button</string>
+    <string name="outline_button">Outline Button</string>
+    <string name="elevated_button">" Elevated Button"</string>
+    <string name="text_button">Text Button</string>
+    <string name="sliders">Sliders</string>
+    <string name="input_chip">Input Chip</string>
+    <string name="suggestion_chip">Suggestion chip</string>
+    <string name="filter_chip">Filter chip</string>
+    <string name="assist_chip">Assist chip</string>
+    <string name="chips">Chips</string>
+    <string name="extended_fab">Extended FAB</string>
+    <string name="floating_buttons">Floating Buttons</string>
+    <string name="loader_progress">Loader/Progress</string>
+    <string name="enable_dynamic_theme">Enable Dynamic Theme :</string>
+    <string name="current_theme">Current Theme : %1$s</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="cancel">Cancel</string>
+</resources>
